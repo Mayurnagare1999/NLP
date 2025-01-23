@@ -27,12 +27,11 @@ Each project aims to demonstrate the application of different NLP techniques wit
 - **Datasets**: Curated datasets that you can use for training and testing your models.
 
 ## Requirements
-nltk==3.6.3
-spacy==3.1.0
-gensim==4.0.1
-transformers==4.11.3
-torch==1.10.0
-scikit-learn==0.24.2
-matplotlib==3.4.3
+- nltk==3.6.3
+- spacy==3.1.0
+- gensim==4.0.1
+- transformers==4.11.3
+- torch==1.10.0
+- scikit-learn==0.24.2
+- matplotlib==3.4.3
 
-## 
